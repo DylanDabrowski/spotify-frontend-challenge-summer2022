@@ -1,7 +1,9 @@
+import ImageCards from "../components/ImageCards.js/ImageCards";
+
 const Home = () => {
   return (
     <>
-      <h1>Home</h1>
+      <ImageCards />
     </>
   );
 };
