@@ -45,3 +45,9 @@
 .card__image {
   height: fit-content;
 }
+
+.card__likebtn {
+  width: min-content;
+  font-size: 2rem;
+  margin: 10px 0 0 10px;
+}

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./LikeBtn.css";
 import { AiFillHeart, AiOutlineHeart } from "react-icons/ai";
 
