@@ -1,4 +1,4 @@
-import ImageCards from "../components/ImageCards.js/ImageCards";
+import ImageCards from "../components/ImageCards/ImageCards";
 
 const Home = () => {
   return (
